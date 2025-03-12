@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Analysis>
+  <CustomerDetails>
+    <Name>Drew Gammon</Name>
+    <Role>Owner/Builder at Gammon Construction</Role>
+    <InterviewDate>December 11, 2024</InterviewDate>
+  </CustomerDetails>
+  
+  <PainPoints>
+    <PainPoint>Managing certificate of insurance tracking and renewals for subcontractors</PainPoint>
+    <PainPoint>Inconsistent permitting processes across different counties (paper vs. digital)</PainPoint>
+    <PainPoint>Manual handling of invoice processing and payment workflows</PainPoint>
+    <PainPoint>Security concerns with paper check payments</PainPoint>
+    <PainPoint>Difficulty getting less tech-savvy team members to adopt new systems</PainPoint>
+    <PainPoint>Managing multiple logins and platforms for different county systems</PainPoint>
+  </PainPoints>
+  
+  <DesiredOutcomes>
+    <Outcome>Automated certificate of insurance tracking and renewal notifications</Outcome>
+    <Outcome>Streamlined permitting process across different counties</Outcome>
+    <Outcome>Simplified invoice processing and payment system</Outcome>
+    <Outcome>Better integration between different tools and platforms</Outcome>
+    <Outcome>More intuitive system that's accessible to less tech-savvy users</Outcome>
+  </DesiredOutcomes>
+  
+  <FeatureRequests>
+    <FeatureRequest>Direct invoice upload capability for vendors with automatic categorization</FeatureRequest>
+    <FeatureRequest>Automated certificate of insurance tracking with payment holds</FeatureRequest>
+    <FeatureRequest>Integration with county permitting systems</FeatureRequest>
+    <FeatureRequest>Secure digital payment system</FeatureRequest>
+    <FeatureRequest>Simple interface for managing project schedules and team coordination</FeatureRequest>
+  </FeatureRequests>
+  
+  <PerceivedValue>
+    <Value>Time savings through automation of administrative tasks</Value>
+    <Value>Reduced risk through better document tracking and compliance</Value>
+    <Value>Improved team coordination and communication</Value>
+    <Value>Better organization and accessibility of project information</Value>
+  </PerceivedValue>
+  
+  <LanguagePatterns>
+    <RepeatedTerms>
+      <Term frequency="high">automation</Term>
+      <Term frequency="high">integration</Term>
+      <Term frequency="medium">process</Term>
+      <Term frequency="medium">system</Term>
+    </RepeatedTerms>
+    <EmotionalTone>
+      <Emotion type="interest">Enthusiasm about potential automation improvements</Emotion>
+      <Emotion type="concern">Wariness about system complexity for less tech-savvy users</Emotion>
+      <Emotion type="satisfaction">Positive response to AI-assisted workflow concepts</Emotion>
+    </EmotionalTone>
+  </LanguagePatterns>
+</Analysis> 

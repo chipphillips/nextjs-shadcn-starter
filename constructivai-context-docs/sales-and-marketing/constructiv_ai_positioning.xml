@@ -1,0 +1,135 @@
+<o1_prompt>
+    <working_context>
+        <!-- Company Context -->
+        <company>
+            <name>Constructiv AI</name>
+            <product>Max - AI Construction Assistant</product>
+            <target_market>Small to midsize construction companies</target_market>
+        </company>
+
+        <!-- Current Industry Pain Points -->
+        <pain_points>
+            <administrative_burden>40% of workweek spent on paperwork</administrative_burden>
+            <tool_fragmentation>Multiple disconnected software tools</tool_fragmentation>
+            <field_office_gap>Disconnect between field operations and office management</field_office_gap>
+        </pain_points>
+
+        <!-- Core Solution Elements -->
+        <solution_pillars>
+            <interaction>Voice-first, photo, and text input capabilities</interaction>
+            <intelligence>AI-powered document creation and workflow automation</intelligence>
+            <integration>Unified platform replacing multiple tools</integration>
+            <evolution>Continuous AI capability expansion</evolution>
+        </solution_pillars>
+
+        <!-- Brand Parameters -->
+        <voice>
+            <tone>Enthusiastic yet practical</tone>
+            <style>Technical but accessible</style>
+            <approach>Forward-thinking while grounded in reality</approach>
+            <rules>
+                - Use active voice
+                - Avoid industry jargon
+                - Appeal to both practical operators and analytical decision-makers
+            </rules>
+        </voice>
+    </working_context>
+
+    <target_outcome>
+        <!-- Deliverable Specifications -->
+        <deliverables>
+            <value_proposition>
+                - Position Max as an intelligent construction partner
+                - Highlight voice-to-document transformation
+                - Demonstrate workflow integration
+                - Outline AI capability roadmap
+                - Quantify time/cost savings ($72,000-144,000 annual potential)
+            </value_proposition>
+
+            <messaging_framework>
+                - Problem-Solution-Action structure
+                - Focus on immediate benefits and future potential
+                - Emphasize ROI and efficiency gains
+            </messaging_framework>
+
+            <landing_page>
+                - Showcase voice-first interaction
+                - Highlight photo-to-document capabilities
+                - Feature team collaboration tools
+                - Present mobile accessibility
+                - Display AI development roadmap
+            </landing_page>
+        </deliverables>
+
+        <!-- Success Metrics -->
+        <impact_targets>
+            <professional>50% reduction in administrative work</professional>
+            <personal>Increased time for business growth and family</personal>
+            <financial>Demonstrated cost savings</financial>
+            <strategic>Enhanced decision-making capabilities</strategic>
+        </impact_targets>
+
+        <!-- Required Output Format -->
+        <format>
+            Generate cohesive marketing copy that:
+            1. Maintains consistent voice across all deliverables
+            2. Emphasizes Service as Software differentiation
+            3. Focuses on natural interaction benefits
+            4. Highlights unified solution advantages
+            5. Demonstrates future-ready capabilities
+        </format>
+    </target_outcome>
+</o1_prompt>
+
+<positioning>
+    <core_message>Max: Your AI Partner in Construction Intelligence</core_message>
+
+    <pillars>
+        <pillar>
+            <name>Scope</name>
+            <tagline>Define Once, Build Right</tagline>
+            <description>AI-powered definition of materials, labor, and project parameters</description>
+        </pillar>
+        <pillar>
+            <name>Schedule</name>
+            <tagline>Predict Delays Before They Happen</tagline>
+            <description>Real-time adjustments and predictive timeline management</description>
+        </pillar>
+        <pillar>
+            <name>Price</name>
+            <tagline>Know Costs Before They Change</tagline>
+            <description>Automatic cost recalculations based on live project data</description>
+        </pillar>
+    </pillars>
+
+    <key_benefits>
+        <benefit>
+            <name>Time Savings</name>
+            <description>Save 16-20 hours every week through reduced administrative work</description>
+            <impact>40% reduction in administrative workload</impact>
+        </benefit>
+        <benefit>
+            <name>Voice-First Efficiency</name>
+            <description>Natural communication that matches job site reality</description>
+            <impact>Build More, Type Less with voice-driven workflows</impact>
+        </benefit>
+        <benefit>
+            <name>Progressive Growth</name>
+            <description>Start with admin automation, grow into knowledge work</description>
+            <impact>Modular AI tools that evolve with your needs</impact>
+        </benefit>
+    </key_benefits>
+
+    <proof_points>
+        <point>40% Administrative Time Reduction</point>
+        <point>16-20 Hours Weekly Savings</point>
+        <point>25-50% Faster Approvals</point>
+        <point>15 Days Saved Per Project</point>
+    </proof_points>
+
+    <taglines>
+        <primary>Build More, Type Less</primary>
+        <secondary>Your Voice-First Construction Partner</secondary>
+        <tertiary>From Paperwork to Profitability</tertiary>
+    </taglines>
+</positioning> 

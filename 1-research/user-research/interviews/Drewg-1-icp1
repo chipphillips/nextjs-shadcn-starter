@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Analysis>
+  <CustomerDetails>
+    <Name>Drew Gammon</Name>
+    <Role>Owner/Builder at Gammon Construction</Role>
+    <InterviewDate>Not specified</InterviewDate>
+  </CustomerDetails>
+  
+  <PainPoints>
+    <PainPoint>Manual data entry between different systems leading to errors (e.g., transposed numbers in payments)</PainPoint>
+    <PainPoint>Time-consuming process of gathering and following up on bids from subcontractors</PainPoint>
+    <PainPoint>Difficulty in maintaining accurate material tracking and returns across projects</PainPoint>
+    <PainPoint>Challenge of managing pre-construction workflow and documentation consistently</PainPoint>
+    <PainPoint>Limited office support for smaller builders in their group who can't justify full-time staff</PainPoint>
+    <PainPoint>Time spent on non-serious inquiries and price comparison requests</PainPoint>
+  </PainPoints>
+  
+  <DesiredOutcomes>
+    <Outcome>Streamlined workflow from initial customer contact through construction</Outcome>
+    <Outcome>Automated data flow between different systems (Builder Trend, QuickBooks, etc.)</Outcome>
+    <Outcome>Better organization and tracking of pre-construction tasks</Outcome>
+    <Outcome>More efficient bid management and subcontractor communication</Outcome>
+    <Outcome>Improved material tracking and cost management across projects</Outcome>
+  </DesiredOutcomes>
+  
+  <FeatureRequests>
+    <FeatureRequest>Integration between initial customer inquiry forms and project management systems</FeatureRequest>
+    <FeatureRequest>Automated material tracking and return management system</FeatureRequest>
+    <FeatureRequest>Better integration between supplier quotes/invoices and project management software</FeatureRequest>
+    <FeatureRequest>Simplified customer communication and update system</FeatureRequest>
+  </FeatureRequests>
+  
+  <PerceivedValue>
+    <Value>Reduction in manual data entry errors and associated costs</Value>
+    <Value>Time savings in pre-construction and project setup phases</Value>
+    <Value>Better project organization and documentation</Value>
+    <Value>Improved customer communication and satisfaction</Value>
+  </PerceivedValue>
+  
+  <LanguagePatterns>
+    <RepeatedTerms>
+      <Term frequency="high">Builder Trend</Term>
+      <Term frequency="high">QuickBooks</Term>
+      <Term frequency="medium">workflow</Term>
+      <Term frequency="medium">automation</Term>
+    </RepeatedTerms>
+    <EmotionalTone>
+      <Emotion type="frustration">Dealing with manual data entry and errors</Emotion>
+      <Emotion type="satisfaction">When discussing automated processes that work well</Emotion>
+      <Emotion type="concern">About time spent on non-serious inquiries</Emotion>
+    </EmotionalTone>
+  </LanguagePatterns>
+</Analysis>

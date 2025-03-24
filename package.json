@@ -43,7 +43,7 @@
     ]
   },
   "dependencies": {
-    "@supabase/ssr": "^0.1.0",
+    "@supabase/ssr": "^0.6.1",
     "@hookform/resolvers": "^3.9.0",
     "ai": "^4.1.45",
     "openai": "^4.86.2",

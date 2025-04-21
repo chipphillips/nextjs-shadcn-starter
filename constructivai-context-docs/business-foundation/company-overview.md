@@ -59,7 +59,7 @@ Max represents the future of construction management—an intelligent assistant 
 Our solution is specifically designed for:
 
 - Construction business owners managing 5-25 homes annually
-- Teams of 5-10 employees
+- Teams of 0-10 employees
 - Annual revenue range of $6-8M
 - Forward-thinking builders seeking efficiency gains
 
